@@ -1,0 +1,15 @@
+/* Crtl + / */
+
+.title_box {
+    color: red;
+    background-color: yellowgreen;
+    text-align: center;
+    border: 10px black solid;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+}
+#important {
+    color: blue;
+}
